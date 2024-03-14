@@ -1,4 +1,3 @@
-# Climate-data_netCDF4-conversion
 # Data Extraction and Conversion from netCDF4 to Pandas DataFrame
 
 This code extracts temperature (t2m) and total precipitation (tp) data from a netCDF4 file and converts it into a Pandas DataFrame. Here are the steps:
